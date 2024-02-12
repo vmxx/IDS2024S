@@ -21,5 +21,7 @@
 18. **double Asterisk around boldface**
 19. *single Asterisk around italic*
 20. git init
-21. 
+21.
+23.  
+24  git --help  
   
