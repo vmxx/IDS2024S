@@ -21,7 +21,8 @@
 18. **double Asterisk around boldface**
 19. *single Asterisk around italic*
 20. git init
-21.
+21. it is a git repostitory  
+22. cd, mkdir testdir, cd testdir, yes has ./ ../, git status
 23.  
-24  git --help  
+24  git help -a
   
