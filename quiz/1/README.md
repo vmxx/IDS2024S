@@ -1,4 +1,4 @@
-2. .md stands for
+2. .md stands for markdown
 3. Yes  
 4. Yes  
 5. staged for commit to the repository  
