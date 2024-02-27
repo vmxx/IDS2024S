@@ -1,9 +1,9 @@
 1. See the pdf in the same folder
 2.  ENIAC stands for Electronic Numerical Integrator And Computer  
 3.  Binary is easier for computers to process  
-4.  Cache is the fastest part of the computer memory  
-5.  a
-6.  a
+4.  Cache is the fastest part of the computer memory  -
+5.  Disk is the slowest part of the storage device in computers  
+6.  A bit (binary digit) is the smallest unit of data  
 7.  a
 8.  FORTAN, created in 1957  
 9.  a
