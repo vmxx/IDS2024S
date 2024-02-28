@@ -30,5 +30,8 @@ Moore’s Law states that the number of transistors in integrated circuits doubl
 25.    + 64 grains of rice
 + 2080 grains of rice in total
 + About .3lbs of rice in total
-26.   
+26.   + 2^63 +1 grains of rice 
++ 2^64 -1 total grains of rice
++ About 2.63524915e15 lbs of rice
++ About 1317 years
     
