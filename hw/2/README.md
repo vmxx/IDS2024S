@@ -16,16 +16,16 @@
 13.  Fortran/C is a programming language ancestor of MATLAB and Python.
 14.  Registers are fastest part of the memory in the memory hierarchy of modern computers
 15.  Bits are typically the smallest memory unit in the memory hierarchy of modern computers
-16.  Both can process in nanoseconds, however registers have data transfer rates much faster than RAM
-17.  a
-18.  a
+16.  registers process in clock cycles while RAM process in nanoseconds, with registers have data transfer rates much faster than RAM
+17.  RAM process in nanoseconds, while SSD process in microseconds. 
+18.  RAM process in nanoseconds, while HDD process in milliseconds. 
 19.  In a computer microchip, transistors act as switches, letting current through to represent the binary digit 1, or cutting it off to represent 0
 20.  It is costly, and takes alot of power with diminishing returns
 21.  The three tasks are the fetch stage, the decode stage, and the execute stage.
-22.   a
-23.   a
-24.   a
+22.   Yes, despite having more clock cycles, other factors such as multithreading and memory allocation can make it slower than a PC with less clock cycles
+23.   In modern PC, memory access is the bottle neck in terms of PC speeds. Accessing memory takes time among other factors involving memory.
+24.   Dennard Scaling refers to the principles that describes how performance and power efficiency of semiconductor devices could improve as transistor dimensions shrink  
+MOSFET(Metal-Oxide-Semiconductor Field-Effect Transistor) Scaling refers to improving performance, increasing transistor density, and reducing manufacturing cost by shrinking the dimensions of MOSFET transistors.  
+Moore’s Law states that the number of transistors in integrated circuits doubles approximately every two years, leading to increase in performance and capabilities.   
 25.   a
-26.   a
-27.   a
-28.   
+    
