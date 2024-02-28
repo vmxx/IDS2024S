@@ -34,5 +34,5 @@
 27.  Fortran/C is a programming language ancestor of MATLAB and Python
 28.  exponet to a power. 
 29.  1683, i added the first and last numbers, then multiple by half of 33
-30. a
+
 
