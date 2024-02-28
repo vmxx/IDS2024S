@@ -5,11 +5,11 @@
 5.  Disk is the slowest part of the storage device in computers  
 6.  A bit (binary digit) is the smallest unit of data  
 7.  (A) Assembly is the programming language to machine code (i.e., binary code)
-(B) No
+(B) No  
 8.  (A) Fortran is the oldest high-level programming language that is still in active daily use.
 (B) Fortran was made in 19573  
 9.  (A) Assembly is a second-generation programming language.
-(B) Fortran:Third, C:Third, C++; third, MATLAB:fourth, Python:fourth, R:fourth
+(B) Fortran:Third, C:Third, C++; third, MATLAB:fourth, Python:fourth, R:fourth  
 10.  C was made in 1972, C++ was made in 1985, Python was made in 1991, MATLAB was made in 1984
 11.  BCPL was an ancestor programming language of C
 12.  C is the programming language ancestor of C++
