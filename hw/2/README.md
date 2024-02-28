@@ -27,5 +27,5 @@
 24.   Dennard Scaling refers to the principles that describes how performance and power efficiency of semiconductor devices could improve as transistor dimensions shrink  
 MOSFET(Metal-Oxide-Semiconductor Field-Effect Transistor) Scaling refers to improving performance, increasing transistor density, and reducing manufacturing cost by shrinking the dimensions of MOSFET transistors.  
 Moore’s Law states that the number of transistors in integrated circuits doubles approximately every two years, leading to increase in performance and capabilities.   
-25.   a
+25.   
     
