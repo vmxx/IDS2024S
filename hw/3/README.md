@@ -7,10 +7,8 @@ deductive logic, a proposition is a statement that can be either true or false; 
 plausible reasoning, if a is true then b is true. if b is true therefore a becomes more plausible  
 4.  rain at 10 am is not the physical cause of the clouds at 9:45 am  
 5.  if a man with a mask leaves jewelry store with a bag through a broken window, he is a burglar  
-6.   a
-7.   
-8.  a
-9.  a
+6.   ![Hw](https://github.com/vmxx/IDS2024S/assets/157654839/97e79c9a-2b20-42cf-9708-34ab22daa326)
+
 10.  a
 11.  a
 12.  + bit
