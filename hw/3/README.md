@@ -13,5 +13,7 @@ plausible reasoning, if a is true then b is true. if b is true therefore a becom
 9.  a
 10.  a
 11.  a
-12.  a
+12.  + bit
+     + bit are represented as 1/0 or ture/false
+     + 
     
