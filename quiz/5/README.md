@@ -13,7 +13,7 @@ accent color scales
 9. 3d data plots are confusing
 10. months can be numerical or categorical
 11. color is categorical/unordered
-12. a
+12. bottom left  
 13. purple green as some people are color blind
 14. san diego has least vearying temps  
 death valley has wildest varying temp      
@@ -24,7 +24,7 @@ b is sequential color scale
 c is diverging color scale  
 d is accent color scales  
 16. accent color scales has been used  
-17. a
+17. movies from different time periods?  
 18. ![image](https://github.com/vmxx/IDS2024S/assets/157654839/534c815c-1672-49fe-8b65-fe0e825ed9b4)
-19. 
+19. about 2C hotter
 
